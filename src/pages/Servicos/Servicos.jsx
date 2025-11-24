@@ -81,6 +81,14 @@ export default function Servicos() {
                     descricao='Formatação PC e Celulares, Impressora, Instação de Programas'
                     onclick={() => abrirModal('Manutenção', 'Formatação PC e Celulares, Impressora, Instação de Programas')}
                 />
+
+
+                <CardServicos
+                    icone={<BsTools />}
+                    titulo='Documentos'
+                    descricao='Contrato compra e venda, Aluguel, Recibos'
+                    onclick={() => abrirModal('Documentos', 'Contrato compra e venda, Aluguel, Recibos')}
+                />
                 {
                     modalAberto && (
                         <Modal

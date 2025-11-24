@@ -22,6 +22,10 @@
                 {
                     "servico": "Impressão Adesivo",
                     "preco": 8.00
+                },
+                {
+                    "servico": "2ª Via de Conta",
+                    "preco": 2.00
                 }
             ]
         },
@@ -132,6 +136,19 @@
                     "servico": "Card",
                     "preco": "25.00"
                 }
+            ]
+        },
+        {
+            "titulo": "Documentos",
+            "subServicos": [
+                {  "servico": "Contrato Compra e Venda",
+                    "preco": "20.00"
+                },
+                {
+                    "servico": "Contrato Aluguel",
+                    "preco": "18.00"
+                }
+              
             ]
         }
     ]
