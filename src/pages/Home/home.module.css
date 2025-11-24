@@ -1,0 +1,51 @@
+.container {
+    background-image: url('../../images/background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.paragrafo1 {
+    width: 90%;
+    font-size: 45px;
+    font-weight: 600;
+    text-align: left;
+    line-height: 60px;
+}
+
+
+.paragrafo2 {
+    line-height: 60px;
+    width: 90%;
+    font-size: 45px;
+    font-weight: 600;
+    color: rgb(255, 81, 0);
+}
+
+.paragrafo3 {
+    line-height: 55px;
+    width: 90%;
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(255, 81, 0);
+}
+
+.paragrafo4 {
+    line-height: 40px;
+    width: 90%;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(255, 81, 0);
+}
+
+.paragrafo5 {
+    width: 90%;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(255, 81, 0);
+}

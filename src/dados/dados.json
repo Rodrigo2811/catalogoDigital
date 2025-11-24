@@ -1,0 +1,138 @@
+{
+    "servicos": [
+        {
+            "titulo": "Impressão",
+            "subServicos": [
+                {
+                    "servico": "Impressão P&B",
+                    "preco": 2.00
+                },
+                {
+                    "servico": "Impressão Colorida",
+                    "preco": 2.50
+                },
+                {
+                    "servico": "Impressão Foto",
+                    "preco": 8.00
+                },
+                {
+                    "servico": "Impressão Cartão",
+                    "preco": 8.00
+                },
+                {
+                    "servico": "Impressão Adesivo",
+                    "preco": 8.00
+                }
+            ]
+        },
+        {
+            "titulo": "Xerox & Cópias",
+            "subServicos": [
+                {
+                    "servico": "Xerox",
+                    "preco": 0.50
+                },
+                {
+                    "servico": "Xerox Colorida",
+                    "preco": 1.50
+                }
+            ]
+        },
+        {
+            "titulo": "Gravação Pendrive",
+            "subServicos": [
+                {
+                    "servico": "Gravação Musica",
+                    "preco": 10.00
+                },
+                {
+                    "servico": "Gravação Foto",
+                    "preco": 10.00
+                }
+            ]
+        },
+        {
+            "titulo": "Embalagem",
+            "subServicos": [
+                {
+                    "servico": "Embalagem Pequena",
+                    "preco": 4.50
+                },
+                {
+                    "servico": "Embalagem Media",
+                    "preco": "5.50"
+                },
+                {
+                    "servico": "Embalagem Grande",
+                    "preco": "8.00"
+                },
+                {
+                    "servico": "Caixa Pack 015",
+                    "preco": "4.00"
+                },
+                {
+                    "servico": "Caixa Pack 038",
+                    "preco": "5.50"
+                },
+                {
+                    "servico": "Caixa Pack 8153",
+                    "preco": "7.50"
+                },
+                {
+                    "servico": "Caixa Pack 8255",
+                    "preco": "6.50"
+                },
+                {
+                    "servico": "Envelope Oficio G",
+                    "preco": "1.50"
+                },
+                {
+                    "servico": "Envelope Meio Oficio",
+                    "preco": "1.00"
+                },
+                {
+                    "servico": "Envelope de Segurança ",
+                    "preco": "2.00"
+                }
+            ]
+        },
+        {
+            "titulo": "Manutenção",
+            "subServicos": [
+                {
+                    "servico": "Formatação Computador",
+                    "preco": 80.00
+                },
+                {
+                    "servico": "instação Office",
+                    "preco": 35.00
+                },
+                {
+                    "servico": "Limpeza impressora Simples",
+                    "preco": "80.00"
+                },
+                {
+                    "servico": "Limpeza impressora Pesada",
+                    "preco": "180.00"
+                }
+            ]
+        },
+        {
+            "titulo": "Serviços Digitais",
+            "subServicos": [
+                {
+                    "servico": "Criação de Site",
+                    "preco": "1200.00"
+                },
+                {
+                    "servico": "Catálogo Digital",
+                    "preco": "350.00"
+                },
+                {
+                    "servico": "Card",
+                    "preco": "25.00"
+                }
+            ]
+        }
+    ]
+}

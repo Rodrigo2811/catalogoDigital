@@ -1,0 +1,44 @@
+.card {
+    width: 320px;
+    height: 90px;
+    background-color: rgba(238, 236, 236, 0.877);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    gap: 5px;
+    box-shadow: 0 0 2px 0px grey;
+    border-radius: 2px;
+}
+
+
+.containerLeft {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+}
+
+.containerRight {
+    width: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+}
+
+
+.containerLeft svg {
+    font-size: 40px;
+    color: rgb(1, 113, 240);
+}
+
+.tituloServico {
+    font-size: 18px;
+    color: rgb(1, 113, 240);
+    font-weight: 600;
+}
+
+.descripitionServico {
+    font-size: 14px;
+}
