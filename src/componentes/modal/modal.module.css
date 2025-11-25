@@ -1,16 +1,14 @@
 .modal {
     min-width: 360px;
     background-image: linear-gradient(45deg, rgb(1, 113, 240), orange);
-    min-height: 0;
-    max-height: 100%;
     position: absolute;
     z-index: 2;
     box-shadow: 0 0 2px 1px grey;
     padding: 5px;
     margin: 10px 20px;
     border-radius: 4px;
-    animation: animacaoModal .7s ease-in-out;
-
+    animation-name: modalAnimation;
+    animation-duration: .7s;
 
 
 }
@@ -40,14 +38,13 @@ ul {
     padding: 5px;
 }
 
-@keyframes animacaoModal {
+@keyframes modalAnimation {
     0% {
-        height: 0;
-        transition: all .7s ease-in-out;
+        height: 0px;
     }
 
     100% {
-        height: 350px;
-        transition: all .7s ease-in-out;
+        max-height: auto;
+
     }
 }
