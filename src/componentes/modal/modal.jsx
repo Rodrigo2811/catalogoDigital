@@ -14,7 +14,7 @@ export default function modal({ titulo, isClose }) {
     useEffect(() => {
         async function buscarDados() {
             try {
-                const resposta = await fetch('src/dados/dados.json');
+                const resposta = await fetch('/src/dados/dados.json');
                 if (!resposta.ok) {
                     throw new Error(`Erro HTTP! Status: ${resposta.status}`);
                 }
