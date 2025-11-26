@@ -30,14 +30,14 @@
             ]
         },
         {
-            "titulo": "Xerox & Cópias",
+            "titulo": "Cópias",
             "subServicos": [
                 {
-                    "servico": "Xerox",
+                    "servico": "Cópia",
                     "preco": 0.50
                 },
                 {
-                    "servico": "Xerox Colorida",
+                    "servico": "Cópia Colorida",
                     "preco": 1.50
                 }
             ]

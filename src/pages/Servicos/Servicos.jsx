@@ -48,9 +48,9 @@ export default function Servicos() {
 
                 <CardServicos
                     icone={<BsUnion />}
-                    titulo='Xerox & Cópia'
+                    titulo='Cópia'
                     descricao='P&B, Colorida, Scaner'
-                    onclick={() => abrirModal('Xerox & Cópias', 'P&B, Colorida, Scaner')}
+                    onclick={() => abrirModal('Cópias', 'P&B, Colorida, Scaner')}
                 />
 
                 <CardServicos
