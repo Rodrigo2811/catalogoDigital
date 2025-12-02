@@ -21,7 +21,7 @@
 
 
 .paragrafo2 {
-    line-height: 55px;
+    line-height: 60px;
     width: 90%;
     font-size: 45px;
     font-weight: 600;
@@ -29,7 +29,7 @@
 }
 
 .paragrafo3 {
-    line-height: 50px;
+    line-height: 55px;
     width: 90%;
     font-size: 40px;
     font-weight: 600;
@@ -40,7 +40,7 @@
 .paragrafo4 {
     line-height: 40px;
     width: 90%;
-    font-size: 21px;
+    font-size: 25px;
     font-weight: 600;
     color: white;
 
@@ -48,16 +48,7 @@
 
 .paragrafo5 {
     width: 90%;
-    font-size: 21px;
-    font-weight: 600;
-    color: white;
-    line-height: 40px;
-
-}
-
-.paragrafo6 {
-    width: 90%;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 600;
     color: white;
 

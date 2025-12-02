@@ -16,15 +16,11 @@
                     "preco": 8.00
                 },
                 {
-                    "servico": "Impressão Cartão",
+                    "servico": "Impressão Certificado",
                     "preco": 8.00
                 },
                 {
                     "servico": "Impressão Adesivo",
-                    "preco": 8.00
-                },
-                   {
-                    "servico": "Impressão Foto 3x4, 10x15",
                     "preco": 8.00
                 },
                 {
@@ -34,14 +30,18 @@
             ]
         },
         {
-            "titulo": "Cópias",
+            "titulo": "Xerox & Cópias",
             "subServicos": [
                 {
-                    "servico": "Cópia P&B",
+                    "servico": "Xerox",
                     "preco": 0.50
                 },
                 {
-                    "servico": "Cópia Colorida",
+                    "servico": "Xerox Colorida",
+                    "preco": 1.50
+                },
+                {
+                    "servico": "Scaner",
                     "preco": 1.50
                 }
             ]
@@ -68,39 +68,39 @@
                 },
                 {
                     "servico": "Embalagem Media",
-                    "preco": 5.50
+                    "preco": "5.50"
                 },
                 {
                     "servico": "Embalagem Grande",
-                    "preco": 8.00
+                    "preco": "8.00"
                 },
                 {
                     "servico": "Caixa Pack 015",
-                    "preco": 4.00
+                    "preco": "4.00"
                 },
                 {
                     "servico": "Caixa Pack 038",
-                    "preco": 5.50
+                    "preco": "5.50"
                 },
                 {
                     "servico": "Caixa Pack 8153",
-                    "preco": 7.50
+                    "preco": "7.50"
                 },
                 {
                     "servico": "Caixa Pack 8255",
-                    "preco": 6.50
+                    "preco": "6.50"
                 },
                 {
                     "servico": "Envelope Oficio G",
-                    "preco": 1.50
+                    "preco": "1.50"
                 },
                 {
                     "servico": "Envelope Meio Oficio",
-                    "preco": 1.00
+                    "preco": "1.00"
                 },
                 {
                     "servico": "Envelope de Segurança ",
-                    "preco": 2.00
+                    "preco": "2.00"
                 }
             ]
         },
@@ -121,7 +121,7 @@
                 },
                 {
                     "servico": "Limpeza impressora Pesada",
-                    "preco": 180.00
+                    "preco": "180.00"
                 }
             ]
         },
@@ -130,33 +130,50 @@
             "subServicos": [
                 {
                     "servico": "Criação de Site",
-                    "preco": 1200.00
+                    "preco": "1200.00"
                 },
                 {
                     "servico": "Catálogo Digital",
-                    "preco": 350.00
+                    "preco": "350.00"
                 },
                 {
                     "servico": "Card",
-                    "preco": 25.00
+                    "preco": "25.00"
                 }
             ]
         },
         {
             "titulo": "Documentos",
             "subServicos": [
-                {  "servico": "Contrato Compra e Venda",
+                {
+                    "servico": "Contrato Compra e Venda",
                     "preco": "20.00"
                 },
                 {
                     "servico": "Contrato Aluguel",
-                    "preco": 18.00
-                },
-                 {
-                    "servico": "Curriculo",
-                    "preco": 7.00
+                    "preco": "18.00"
                 }
-              
+            ]
+        },
+        {
+            "titulo": "Adesivos & Cartões",
+            "subServicos": [
+                {
+                    "servico": "Adesivo Vinil",
+                    "preco": "12.00"
+                },
+                {
+                    "servico": "Adesivo Branco",
+                    "preco": "10.00"
+                },
+                {
+                    "servico": "Adesivo Escolares",
+                    "preco": "10.00"
+                },
+                {
+                    "servico": "Cartões de Visita - 100 Und",
+                    "preco": "50.00"
+                }
             ]
         }
     ]

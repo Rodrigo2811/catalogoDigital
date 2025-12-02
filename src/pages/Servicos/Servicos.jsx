@@ -40,17 +40,17 @@ export default function Servicos() {
 
                 <CardServicos
                     icone={<BsScissors />}
-                    titulo='Adesivos & Rótulos'
+                    titulo='Adesivos & Cartões'
                     descricao='Foto, Vinil'
-                    onclick={() => abrirModal('Adesivos', 'Foto, Vinil')}
+                    onclick={() => abrirModal('Adesivos & Cartões', 'Vinil, fosco, brilhante, Cartão de Visita')}
                 />
 
 
                 <CardServicos
                     icone={<BsUnion />}
-                    titulo='Cópias'
+                    titulo='Xerox & Cópia'
                     descricao='P&B, Colorida, Scaner'
-                    onclick={() => abrirModal('Cópias', 'P&B, Colorida, Scaner')}
+                    onclick={() => abrirModal('Xerox & Cópias', 'P&B, Colorida, Scaner')}
                 />
 
                 <CardServicos
